@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    overflow-x: hidden;
+}
+
+
+.titlecont{
+    display: flex;
+    width: 100vw;
+    justify-content: center;
+    margin-top: 4vh; 
+}
+
+.cat{
+    width: 7vw;
+}
+
+p{
+    font-size: 7vw;
+    margin-left: 3vw;
+    margin-right: 3vw;
+}
+
+.mainpart{
+    display: flex;
+    width: 100vw;
+    justify-content: space-evenly;
+}
+
+.sonyapic{
+    width: 36vw;
+}
+
+.text{
+    width: 32vw;
+    font-size: 2vw;
+    padding-left: 2vw;
+    padding-right: 2vw;
+}
+
+button{
+    position: absolute;
+    left: 5vw;
+    bottom: 5vh;
+    padding: 2vw;
+    font-size: 1.5vw;
+    border-radius: 20px;
+    color: blue;
+    background-color: aqua;
+    font-weight: bold;
+}
