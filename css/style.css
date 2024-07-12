@@ -49,7 +49,39 @@ button{
     padding: 2vw;
     font-size: 1.5vw;
     border-radius: 20px;
-    color: blue;
-    background-color: aqua;
+    color: gold;
+    background-color: plum;
     font-weight: bold;
 }
+
+
+.leftarrow{
+    position: absolute;
+    left: 25vw;
+    bottom: 5vh;
+    width: 5vw;
+}
+
+
+.rightarrow{
+    position: absolute;
+    right: 25vw;
+    bottom: 5vh;
+    width: 5vw;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
