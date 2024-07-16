@@ -33,20 +33,21 @@ p{
 }
 
 
+
 .photo1{
     position: absolute;
-    left: 10vw;
+    left: 14vw;
 }
 
 
 .photo2{
     position: absolute;
-    left: 30vw;
+    left: 56vw;
 }
 
 .photo3{
     position: absolute;
-    left: 50vw;
+    left: 70vw;
 }
 
 
