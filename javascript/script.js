@@ -17,6 +17,7 @@ function changecat(switchcat){
     if (currentcat=="sonya"){
         catname.innerText="Sonya";
         catimg.src="../pictures/sonya.jpg";
+        
     }
     if (currentcat=="ryzhyk"){
        catname.innerText="Ryzhyk";

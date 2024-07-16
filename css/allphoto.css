@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    overflow-x: hidden;
+}
+
+
+.title{
+    display: flex;
+    width: 100vw;
+    justify-content: center;
+    margin-top: 4vh; 
+}
+
+.titleicon{
+    width: 6vw;
+}
+
+p{
+    font-size: 5vw;
+}
+
+.photosonya{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.sonyaphoto{
+    width: 15vw;
+}
+
+
+.photo1{
+    position: absolute;
+    left: 10vw;
+}
+
+
+.photo2{
+    position: absolute;
+    left: 30vw;
+}
+
+.photo3{
+    position: absolute;
+    left: 50vw;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
