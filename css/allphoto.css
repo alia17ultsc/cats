@@ -5,6 +5,16 @@
 
 body{
     overflow-x: hidden;
+    background-color: #99C7AA;
+
+}
+
+.bg{
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 120vw;
+    opacity: 0.3;
 }
 
 
@@ -30,8 +40,14 @@ p{
 
 .sonyaphoto{
     width: 15vw;
+    transition: 1.5s;
 }
 
+
+.sonyaphoto:hover{
+    transform: scale(1.6);
+    
+}
 
 
 .photo1{
@@ -51,6 +67,17 @@ p{
 }
 
 
+.back{
+    position: fixed;
+    left: 5vw;
+    bottom: 5vh;
+    padding: 2vw;
+    font-size: 1.5vw;
+    border-radius: 20px;
+    color: gold;
+    background-color: plum;
+    font-weight: bold;
+}
 
 
 
