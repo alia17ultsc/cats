@@ -12,6 +12,12 @@ function nextpage(){
     else if (catnumber==1){
         window.location.href="ryzhyk_photo.html";
     }
+    else if (catnumber==2){
+        window.location.href="felix_photo.html";
+    }
+    else if (catnumber==3){
+        window.location.href="soonie_photo.html";
+    }
 }
 
 function returnpage(){
@@ -53,7 +59,7 @@ function changecat(switchcat){
     else if (currentcat=="soonie"){
        catname.innerText="Soonie";
         catimg.src="../pictures/soonie.jpg"; 
-        catdesc.innerText="This cat lives with Judy in Sharm";
+        catdesc.innerText="Soonie's born on 5th of August he likes running side ways and he gets angry at his litter box and like he has beef with my brother";
         catinfo.innerText="Cats can see spirits and according of its energy they can scare away them or to enhance their presence in our benefit.";
     }
     
