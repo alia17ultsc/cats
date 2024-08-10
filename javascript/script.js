@@ -43,9 +43,9 @@ function changecat(switchcat){
         
     }
     else if (currentcat=="ryzhyk"){
-       catname.innerText="Ryzhyk";
+       catname.innerText="Ryzhyl'ka";
         catimg.src="../pictures/ryzhyk.jpg"; 
-        catdesc.innerText="In the year 2022 he started living a home. Every evening he controls the cat restaurant. He doesnt like strangers.";
+        catdesc.innerText="In the year 2022 she started living a home. Every evening she controls the cat restaurant. She doesnt like strangers.";
         catinfo.innerText="If you thought cats spent a lot of their lives sleeping, you’d be right. According to Veterinary Hub, Cats actually spend 70% of their lives sleeping, which works out to around 13-16 hours a day. It’s a cat’s life!";
     }
     
